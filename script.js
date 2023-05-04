@@ -38,8 +38,8 @@ document.addEventListener("click", (e) => {
       });
   }else if (e.target.id == "logo1") {
   
-    document.getElementById("popupfront2").style.scale = 1;
-    document.getElementById("popupfront1").style.scale = 0;
+    document.getElementById("popupfront111").style.scale = 1;
+    document.getElementById("popupfront2").style.scale = 0;
     document.getElementById("popupfront3").style.scale = 0;
     document.getElementById("popupfront4").style.scale = 0;
     document.getElementById("popupfront5").style.scale = 0;
@@ -48,12 +48,14 @@ document.addEventListener("click", (e) => {
     document.getElementById("popupfront8").style.scale = 0;
     document.getElementById("popupfront9").style.scale = 0;
     document.getElementById("popupfront10").style.scale = 0;
+    document.getElementById("popupfront11").style.scale = 0;
+
 
   
       
   } else if (e.target.id == "logo2") {
   
-    document.getElementById("popupfront1").style.scale = 0;
+    document.getElementById("popupfront111").style.scale = 0;
     document.getElementById("popupfront2").style.scale = 1;
     document.getElementById("popupfront3").style.scale = 0;
     document.getElementById("popupfront4").style.scale = 0;
@@ -63,10 +65,15 @@ document.addEventListener("click", (e) => {
     document.getElementById("popupfront8").style.scale = 0;
     document.getElementById("popupfront9").style.scale = 0;
     document.getElementById("popupfront10").style.scale = 0;
+    document.getElementById("popupfront11").style.scale = 0;
+    document.getElementById("popupfront11").style.scale = 0;
+
+
+
 
 }else if (e.target.id == "logo3") {
   
-    document.getElementById("popupfront1").style.scale = 0;
+    document.getElementById("popupfront111").style.scale = 0;
     document.getElementById("popupfront2").style.scale = 0;
     document.getElementById("popupfront3").style.scale = 1;
     document.getElementById("popupfront4").style.scale = 0;
@@ -76,10 +83,12 @@ document.addEventListener("click", (e) => {
     document.getElementById("popupfront8").style.scale = 0;
     document.getElementById("popupfront9").style.scale = 0;
     document.getElementById("popupfront10").style.scale = 0;
+    document.getElementById("popupfront11").style.scale = 0;
+
     
 }else if (e.target.id == "logo4") {
   
-  document.getElementById("popupfront1").style.scale = 0;
+  document.getElementById("popupfront111").style.scale = 0;
   document.getElementById("popupfront2").style.scale = 0;
   document.getElementById("popupfront3").style.scale = 0;
   document.getElementById("popupfront4").style.scale = 1;
@@ -89,10 +98,12 @@ document.addEventListener("click", (e) => {
   document.getElementById("popupfront8").style.scale = 0;
   document.getElementById("popupfront9").style.scale = 0;
   document.getElementById("popupfront10").style.scale = 0;
+  document.getElementById("popupfront11").style.scale = 0;
+
   
 }else if (e.target.id == "logo5") {
   
-  document.getElementById("popupfront1").style.scale = 0;
+  document.getElementById("popupfront111").style.scale = 0;
   document.getElementById("popupfront2").style.scale = 0;
   document.getElementById("popupfront3").style.scale = 0;
   document.getElementById("popupfront4").style.scale = 0;
@@ -102,10 +113,12 @@ document.addEventListener("click", (e) => {
   document.getElementById("popupfront8").style.scale = 0;
   document.getElementById("popupfront9").style.scale = 0;
   document.getElementById("popupfront10").style.scale = 0;
+  document.getElementById("popupfront11").style.scale = 0;
+
   
 }else if (e.target.id == "logo6") {
   
-  document.getElementById("popupfront1").style.scale = 0;
+  document.getElementById("popupfront111").style.scale = 0;
   document.getElementById("popupfront2").style.scale = 0;
   document.getElementById("popupfront3").style.scale = 0;
   document.getElementById("popupfront4").style.scale = 0;
@@ -115,10 +128,12 @@ document.addEventListener("click", (e) => {
   document.getElementById("popupfront8").style.scale = 0;
   document.getElementById("popupfront9").style.scale = 0;
   document.getElementById("popupfront10").style.scale = 0;
+  document.getElementById("popupfront11").style.scale = 0;
+
   
 }else if (e.target.id == "logo7") {
   
-  document.getElementById("popupfront1").style.scale = 0;
+  document.getElementById("popupfront111").style.scale = 0;
   document.getElementById("popupfront2").style.scale = 0;
   document.getElementById("popupfront3").style.scale = 0;
   document.getElementById("popupfront4").style.scale = 0;
@@ -128,10 +143,12 @@ document.addEventListener("click", (e) => {
   document.getElementById("popupfront8").style.scale = 0;
   document.getElementById("popupfront9").style.scale = 0;
   document.getElementById("popupfront10").style.scale = 0;
+  document.getElementById("popupfront11").style.scale = 0;
+
   
 }else if (e.target.id == "logo8") {
   
-  document.getElementById("popupfront1").style.scale = 0;
+  document.getElementById("popupfront111").style.scale = 0;
   document.getElementById("popupfront2").style.scale = 0;
   document.getElementById("popupfront3").style.scale = 0;
   document.getElementById("popupfront4").style.scale = 0;
@@ -141,10 +158,12 @@ document.addEventListener("click", (e) => {
   document.getElementById("popupfront8").style.scale = 1;
   document.getElementById("popupfront9").style.scale = 0;
   document.getElementById("popupfront10").style.scale = 0;
+  document.getElementById("popupfront11").style.scale = 0;
+
   
 }else if (e.target.id == "logo9") {
   
-  document.getElementById("popupfront1").style.scale = 0;
+  document.getElementById("popupfront111").style.scale = 0;
   document.getElementById("popupfront2").style.scale = 0;
   document.getElementById("popupfront3").style.scale = 0;
   document.getElementById("popupfront4").style.scale = 0;
@@ -154,10 +173,12 @@ document.addEventListener("click", (e) => {
   document.getElementById("popupfront8").style.scale = 0;
   document.getElementById("popupfront9").style.scale = 1;
   document.getElementById("popupfront10").style.scale = 0;
+  document.getElementById("popupfront11").style.scale = 0;
+
   
 }else if (e.target.id == "logo10") {
   
-  document.getElementById("popupfront1").style.scale = 0;
+  document.getElementById("popupfront111").style.scale = 0;
   document.getElementById("popupfront2").style.scale = 0;
   document.getElementById("popupfront3").style.scale = 0;
   document.getElementById("popupfront4").style.scale = 0;
@@ -167,6 +188,23 @@ document.addEventListener("click", (e) => {
   document.getElementById("popupfront8").style.scale = 0;
   document.getElementById("popupfront9").style.scale = 0;
   document.getElementById("popupfront10").style.scale = 1;
+  document.getElementById("popupfront11").style.scale = 0;
+
+  
+}else if (e.target.id == "logo11") {
+  
+  document.getElementById("popupfront111").style.scale = 0;
+  document.getElementById("popupfront2").style.scale = 0;
+  document.getElementById("popupfront3").style.scale = 0;
+  document.getElementById("popupfront4").style.scale = 0;
+  document.getElementById("popupfront5").style.scale = 0;
+  document.getElementById("popupfront6").style.scale = 0;
+  document.getElementById("popupfront7").style.scale = 0;
+  document.getElementById("popupfront8").style.scale = 0;
+  document.getElementById("popupfront9").style.scale = 0;
+  document.getElementById("popupfront10").style.scale = 0;
+  document.getElementById("popupfront11").style.scale = 1;
+
   
 }else if (e.target.id == "popupbackimg") {
     document
@@ -208,7 +246,7 @@ document.addEventListener("click", (e) => {
         check = 1;
       });
   } else {
-    document.getElementById("popupfront1").style.scale = 0;
+    document.getElementById("popupfront111").style.scale = 0;
     document.getElementById("popupfront2").style.scale = 0;
     document.getElementById("popupfront3").style.scale = 0;
     document.getElementById("popupfront4").style.scale = 0;
@@ -218,7 +256,9 @@ document.addEventListener("click", (e) => {
     document.getElementById("popupfront8").style.scale = 0;
     document.getElementById("popupfront9").style.scale = 0;
     document.getElementById("popupfront10").style.scale = 0;
-    check = 0;
+    document.getElementById("popupfront11").style.scale = 0;
+
+
   }
 });
 
